@@ -1,9 +1,6 @@
 `Demo Link:`
 <br/>
-<a href ="
-https://firebasestorage.googleapis.com/v0/b/dev-portfolio-sq.appspot.com/o/Assets_Escrow%2Fescrowvideo.webm?alt=media&token=0e07df09-abc8-43bf-bbbe-1c78f8542191
-">
-Video</a>
+<a href ="https://firebasestorage.googleapis.com/v0/b/dev-portfolio-sq.appspot.com/o/Assets_Escrow%2Fescrowvideo.webm?alt=media&token=0e07df09-abc8-43bf-bbbe-1c78f8542191">Video</a>
 
 #
 
